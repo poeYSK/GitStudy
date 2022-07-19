@@ -10,3 +10,9 @@
 ## 파일 생성 되돌리기
 
 - 특정 파일의 내용을 마지막 커밋으로 돌리고 싶다면 해당 파일 선택 후 '코드 뭉치 버리기' 선택
+
+## Branch 번경하기
+
+- Branch: 기존 내용을 유지한 채 새로운 내용을 추가하고 싶을 때 사용한다.
+- Checkout: 특정 Branch(혹은 commit)으로 돌아가고 싶을 때 사용한다.
+- Sourcetree의 Checkout: Branch 이름을 더블 클릭하는 것만으로 Checkout 가능하다.
