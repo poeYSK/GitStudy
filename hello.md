@@ -16,3 +16,8 @@
 - Branch: 기존 내용을 유지한 채 새로운 내용을 추가하고 싶을 때 사용한다.
 - Checkout: 특정 Branch(혹은 commit)으로 돌아가고 싶을 때 사용한다.
 - Sourcetree의 Checkout: Branch 이름을 더블 클릭하는 것만으로 Checkout 가능하다.
+
+## Merge 1
+
+- Head Branch에 변경사항이 없고 Merge 대상 Branch가 Head로부터 시작된 경우
+- 아주 쉽게 Merge 가능 = Fast-forward
