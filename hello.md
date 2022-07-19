@@ -21,3 +21,8 @@
 
 - Head Branch에 변경사항이 없고 Merge 대상 Branch가 Head로부터 시작된 경우
 - 아주 쉽게 Merge 가능 = Fast-forward
+
+## Merge 2
+
+- Head Branch에 추가적인 commit이 생기는 경우 진짜 Merge가 필요해 진다.
+- Conflict가 안나면 좋은데, Conflict가 나도 겁내지 말자.
