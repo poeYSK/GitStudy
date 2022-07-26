@@ -26,3 +26,7 @@
 
 - Head Branch에 추가적인 commit이 생기는 경우 진짜 Merge가 필요해 진다.
 - Conflict가 안나면 좋은데, Conflict가 나도 겁내지 말자.
+
+## 오늘의 기분
+
+- 내 기분과는 달리 하늘이 푸르르다.
