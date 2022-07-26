@@ -26,3 +26,7 @@
 
 - Head Branch에 추가적인 commit이 생기는 경우 진짜 Merge가 필요해 진다.
 - Conflict가 안나면 좋은데, Conflict가 나도 겁내지 말자.
+
+## Confilct
+
+- 중요한 점: 겁내지 않는 것.
